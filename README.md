@@ -38,8 +38,8 @@ Backend · 동국대학교 컴퓨터공학전공
 | | | |
 |---|---|---|
 | **[learnkit](https://github.com/ji2081/learnkit)** | 학습자 수준에 따라 같은 자료가 다르게 펼쳐지는 파이썬 학습 도구 | `Python` |
-| **[돈다바짜](https://github.com/ji2081/OSS-2026-10)** | 청년 지원금 최적 조합 탐색기 — 정책 간 배타 관계를 MWIS로 계산 | `FastAPI` `PostgreSQL` |
-| **[linkbox](https://github.com/ji2081/linkbox)** | 링크 아카이빙 REST API — URL 정규화 기반 중복 방지 | `Java` `Spring Boot` |
+| **[돈다바짜](https://github.com/ji2081/OSS-2026-10)** | 청년 지원금 최적 조합 탐색기 | 정책 간 배타 관계를 MWIS로 계산 | `FastAPI` `PostgreSQL` |
+| **[linkbox](https://github.com/ji2081/linkbox)** | 링크 아카이빙 REST API | URL 정규화 기반 중복 방지 | `Java` `Spring Boot` |
 
 ### Talks
 
@@ -47,5 +47,5 @@ Backend · 동국대학교 컴퓨터공학전공
 
 ### Activities
 
-- **잇타 (IT's TIME) 10기** · Backend — 팀 프로젝트 진행 중 (2026.09 ~)
-- **GDG on Campus 동국대** · Community Core — 세미나·프로젝트 기획 (2026.08 ~)
+- **잇타 (IT's TIME) 10기** · Backend | 팀 프로젝트 진행 중 (2026.09 ~)
+- **GDG on Campus 동국대** · Community Core  (2026.08 ~)
