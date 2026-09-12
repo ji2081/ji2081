@@ -1,6 +1,6 @@
 ## 정지민 (Jimin Jung)
 
-Backend · 동국대학교 컴퓨터공학전공
+Backend
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://magenta-safflower-154.notion.site/Backend-Developer-3c5c5adbfdcb80d39160cf35f1542045)
 [![Gmail](https://img.shields.io/badge/ji2081@dgu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ji2081@dgu.ac.kr)
