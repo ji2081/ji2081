@@ -47,4 +47,4 @@
 
 - **잇타 (IT's TIME) ¹⁰ᵗʰ** | Backend (2026.09 ~)
 - **GDG on Campus Dongguk University ⁴ᵗʰ** · Community Core  (2026.08 ~)
-- **AWS Student Builder Group at DGU ¹ˢᵗ** · General Member (2026.09 ~) 
+- **AWS Student Builder Group at DGU ¹ˢᵗ** · General Member (2026.09 ~)  
